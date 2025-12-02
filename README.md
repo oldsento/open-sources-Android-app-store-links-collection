@@ -1,6 +1,6 @@
 ### 讨论帖/同步：
-https://meta.appinn.net/t/topic/78196
-https://chii.in/group/topic/444172
+- https://meta.appinn.net/t/topic/78196
+- https://chii.in/group/topic/444172
 
 1. https://github.com/ImranR98/Obtainium
 2. https://github.com/ThIsLinked/AuroraStoreCrxmson
@@ -16,7 +16,7 @@ https://chii.in/group/topic/444172
 12. https://gitlab.com/fdroid/fdroidclient
 13. https://github.com/f-droid/fdroidclient
 
-⭕各种坑：
+### 各种坑：
 1. https://github.com/muthopay/AppUpdate?tab=readme-ov-file
 2. https://github.com/eternnoir/google-play-downloader❌
 3. https://github.com/app-downloader/app-downloader❌
